@@ -66,8 +66,9 @@ export default function Navbar() {
             {/* Products Dropdown */}
             <div className="relative">
               <Button
+                variant={"ghost"}
                 onClick={() => setIsProductsOpen(!isProductsOpen)}
-                className="flex items-center text-gray-700 hover:text-blue-600 font-medium transition-colors duration-300 group"
+                className="flex items-center  text-gray-700 hover:text-blue-600 font-medium transition-colors duration-300 group"
               >
                 Products
                 <ChevronDown
