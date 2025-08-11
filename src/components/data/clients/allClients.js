@@ -1,0 +1,15 @@
+export const allClients = [
+  "KRL",
+  "NUST",
+  "PAEC",
+  "PMO",
+  "CDA",
+  "OGDCL",
+  "HMC",
+  "Islamabad Club",
+  "Bestway Cement",
+  "Pepsi",
+  "MIA",
+  "Shaigan Pharma",
+  "SABRO",
+];
