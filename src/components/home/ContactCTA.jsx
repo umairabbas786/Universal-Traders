@@ -25,7 +25,7 @@ export default function ContactCTA() {
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-12">
             <div className="flex items-center gap-3 bg-white/10 backdrop-blur-sm rounded-full px-6 py-3 border border-white/20">
               <Phone className="h-5 w-5 text-white" />
-              <span className="text-white font-medium">0300-9750265</span>
+              <span className="text-white font-medium">0300-9750265</span>{" "}
             </div>
             <div className="flex items-center gap-3 bg-white/10 backdrop-blur-sm rounded-full px-6 py-3 border border-white/20">
               <Mail className="h-5 w-5 text-white" />

@@ -3,12 +3,12 @@ import { Users } from "lucide-react";
 
 const TEAM = [
   {
-    name: "Abdul Aziz",
+    name: "Muhammad Usman Ansar",
     role: "General Manager",
     desc: "Leading Universal Traders with extensive experience in pipeline solutions and client relationship management.",
   },
   {
-    name: "Muhammad Usman Ansar",
+    name: "Abdul Aziz",
     role: "Order Supplier",
     desc: "Managing procurement and supply chain operations to ensure timely delivery of quality products to our valued clients.",
   },

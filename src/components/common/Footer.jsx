@@ -130,8 +130,10 @@ export default function Footer() {
               <div className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 text-blue-400 mt-1" />
                 <div className="text-sm text-gray-400">
-                  <p>Head Office: Opposite G.T Road, Islamabad</p>
-                  <p>Branch: Office 2, Rawalpindi/Tarnol</p>
+                  <p>
+                    Head Office: Office 63 Ismail g market city saddar road
+                    Rawalpindi 46000
+                  </p>
                 </div>
               </div>
 

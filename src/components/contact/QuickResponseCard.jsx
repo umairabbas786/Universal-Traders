@@ -19,14 +19,17 @@ export default function QuickResponseCard() {
             <Phone className="mr-2 h-4 w-4" />
             Call Now: 0300-9750265
           </Button>
-          <Button
-            variant="outline"
-            className="border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white bg-transparent"
-          >
-            WhatsApp Us
-          </Button>
+          <a href="https://wa.me/923175247072" target="_blank" rel="noopener noreferrer">
+            <Button
+              variant="outline"
+              className="border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white bg-transparent"
+            >
+              WhatsApp Us
+            </Button>
+          </a>
         </div>
       </CardContent>
     </Card>
   );
 }
+ 

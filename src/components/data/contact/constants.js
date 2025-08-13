@@ -7,7 +7,10 @@ export const PHONES = [
 export const EMAILS = ["ansarusman405@gmail.com", "alazizpipes@gmail.com"];
 export const LOCATIONS = [
   { label: "Office 2", value: "Rawalpindi/Tarnol" },
-  { label: "Head Office", value: "Opposite G.T Road, Islamabad" },
+  {
+    label: "Head Office",
+    value: "Office 63 Ismail g market city saddar road Rawalpindi 46000",
+  },
 ];
 export const HOURS = [
   "Monday - Saturday",

@@ -10,7 +10,9 @@ export default function PhoneCard() {
         <h3 className="text-xl font-semibold mb-4">Phone Numbers</h3>
         <div className="space-y-2 text-gray-600 break-all sm:break-words">
           {PHONES.map((p, i) => (
-            <p key={i} className="text-sm sm:text-base">{p}</p>
+            <p key={i} className="text-sm sm:text-base">
+              {p}
+            </p>
           ))}
         </div>
       </CardContent>

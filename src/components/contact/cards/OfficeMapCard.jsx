@@ -15,7 +15,10 @@ export default function OfficeMapCard() {
         <div className="space-y-4">
           <div>
             <h4 className="font-semibold text-gray-900">Head Office</h4>
-            <p className="text-gray-600">Opposite G.T Road, Islamabad</p>
+            <p className="text-gray-600">
+              {" "}
+              Office 63 Ismail g market city saddar road Rawalpindi 46000
+            </p>
           </div>
           <div>
             <h4 className="font-semibold text-gray-900">Branch Office</h4>
